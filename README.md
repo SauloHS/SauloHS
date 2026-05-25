@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like coding in low level languages, such as C or even assembly. Sometimes I'm doing some crazy stuff in python or JS.<br>I'm currently working on my hobby OS, called Nova64_OS. 
+I like coding in low level languages, such as C, C++ or even assembly. Sometimes I'm doing some crazy stuff in python or JS.<br>I'm currently working on my programming language, called Nova. 
 
 
 ## 🌐 Socials:
