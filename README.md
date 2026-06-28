@@ -1,11 +1,6 @@
-# Hi 👋, I'm Saulo Henrique
+# Hi, I'm Saulo Henrique
 
 ### A passionate Rust developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SauloHS&label=Profile views&color=0e75b6&style=flat" alt="SauloHS" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SauloHS" alt="SauloHS" /></a> </p>
-
 - 🌱 I'm currently learning **Rust**
 
 - 📫 How to reach me **saulohsdoroteio@gmail.com**
