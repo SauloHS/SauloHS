@@ -1,11 +1,14 @@
 # Hi, I'm Saulo Henrique
 
 ### A passionate Rust developer
-- 🌱 I'm currently learning **Rust**
+- 🌱 I'm currently learning **Rust** and **Vim**
 
 - 📫 How to reach me **saulohsdoroteio@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://saulohs.netlify.app/](https://saulohs.netlify.app/)**
+
+Fun Fact:
+I started learning Vim after a youtuber (@bogxd) made a video using Neovim
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
